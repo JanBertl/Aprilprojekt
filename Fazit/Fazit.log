@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.29)  23 APR 2022 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.29)  6 MAY 2022 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -213,22 +213,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 19.
 
-Overfull \hbox (0.53381pt too wide) in paragraph at lines 18--29
+Overfull \hbox (0.53381pt too wide) in paragraph at lines 18--28
 [][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--29
+Underfull \hbox (badness 10000) in paragraph at lines 18--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--29
+Underfull \hbox (badness 10000) in paragraph at lines 18--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--29
+Underfull \hbox (badness 10000) in paragraph at lines 18--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--28
 
  []
 
@@ -244,7 +249,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,5n,66p,267b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Fazit.pdf (1 page, 32412 bytes).
+Output written on Fazit.pdf (1 page, 32022 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
